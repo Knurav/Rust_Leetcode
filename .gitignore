@@ -1,1 +1,3 @@
-main.rs
+# Ignore generated .exe and .pdb files
+*.exe
+*.pdb
